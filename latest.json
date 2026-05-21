@@ -1,15 +1,15 @@
 {
-  "version": "0.2.7",
-  "notes": "1. Обновлен интерфейс приложения.\r\n2. Обновлены фильтры во вкладке операции.\r\n3. Добавлен номер банковского счёта.",
-  "pub_date": "2026-05-21T09:20:50.008Z",
+  "version": "0.2.8",
+  "notes": "1. Централизованы расчёты доходов, расходов и разницы для операций, анализа и dashboard с учётом кредитного лимита. \r\n2. Добавлены фильтры анализа, компактные фильтры операций и общие элементы выбора дат, месяцев и времени. \r\n3. Добавлен диалог экспорта с зашифрованным файлом по умолчанию, подтверждением паролем для CSV и импортом vault-файлов. \r\n4. Исправлено отображение номера банковского счёта, слой toast-уведомлений.",
+  "pub_date": "2026-05-21T11:45:37.158Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTZNL3NyNzVyb1dVY0ZEWk5uZ1BJTCtXNmF6L2J6U3dsa3I1OVYvU2l1NmdONCtHYXFBZXhwTndZT3c5ZUF3bFQyREtmU3lpbGxMUTVCUjk2bktpcWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzU1MjQyCWZpbGU6RmluYW5jZV8wLjIuN194NjQtc2V0dXAuZXhlCk54YnlvY09GV1poMDNjWVAwOTIrWlgxdWZCbXlTY2Q3dnF6SFhVeXdnMTRvZ3Y3TGhYVzBndXB0allqUXBmMVVxbGd3Mm4rV1lHbTZ4Nm84VWlRWEJ3PT0K",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTVjNGUyK2p0azFwOGV0bVUzcUpzZ3RLOGl5OVVHZmVteFZiZTVNTDliN2ludVdYUFBUSGtRbUFDakJ1UnZyenlRY01ZSFpGN21SVitySVJwc2dOOXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzYzOTE3CWZpbGU6RmluYW5jZV8wLjIuOF94NjQtc2V0dXAuZXhlCjNQb01LNFJyUTV0TXhGR3BKaG8vSWJUeEdjUnhGVlcvVDlWbWZEcTVHaGZRRGxIVlV5WHNHNUQ0bkFhWXA2QTcxMk5UQm80VnJoZy9tZU1mcXZTWEN3PT0K",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.8_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTZNL3NyNzVyb1dVY0ZEWk5uZ1BJTCtXNmF6L2J6U3dsa3I1OVYvU2l1NmdONCtHYXFBZXhwTndZT3c5ZUF3bFQyREtmU3lpbGxMUTVCUjk2bktpcWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzU1MjQyCWZpbGU6RmluYW5jZV8wLjIuN194NjQtc2V0dXAuZXhlCk54YnlvY09GV1poMDNjWVAwOTIrWlgxdWZCbXlTY2Q3dnF6SFhVeXdnMTRvZ3Y3TGhYVzBndXB0allqUXBmMVVxbGd3Mm4rV1lHbTZ4Nm84VWlRWEJ3PT0K",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTVjNGUyK2p0azFwOGV0bVUzcUpzZ3RLOGl5OVVHZmVteFZiZTVNTDliN2ludVdYUFBUSGtRbUFDakJ1UnZyenlRY01ZSFpGN21SVitySVJwc2dOOXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzYzOTE3CWZpbGU6RmluYW5jZV8wLjIuOF94NjQtc2V0dXAuZXhlCjNQb01LNFJyUTV0TXhGR3BKaG8vSWJUeEdjUnhGVlcvVDlWbWZEcTVHaGZRRGxIVlV5WHNHNUQ0bkFhWXA2QTcxMk5UQm80VnJoZy9tZU1mcXZTWEN3PT0K",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.8_x64-setup.exe"
     }
   }
 }
