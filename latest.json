@@ -1,15 +1,15 @@
 {
-  "version": "0.2.11",
-  "notes": "1. Анализ: график книжного баланса по дням, месяцам, кварталам и годам с фильтром периода и горизонтальной прокруткой.\r\n2. График баланса: фиксированная ось Y, шкала по видимым столбцам, ноль на нижней границе столбцов, блок на всю высоту карточки.\r\n3. Фильтры операций и аналитики: закреплённый футер со «Сбросить», прокрутка только списка значений.\r\n4. Виджеты: сумма и валюта в одной строке без переноса.\r\n5. Импорт PDF: выписка накопительного счёта Сбера и корректное описание операций при повторной загрузке.",
-  "pub_date": "2026-05-22T11:30:50.970Z",
+  "version": "0.2.12",
+  "notes": "1. Экран входа: шестерёнка с карточкой обновлений, проверка и установка новой версии, уведомления.\r\n2. График баланса: подсветка столбца при наведении без чёрной обводки, отдельный тултип по столбцу.",
+  "pub_date": "2026-05-22T17:56:45.670Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTNCM2ZGb1hmVFVxTDFlQlNCQURrb2F2SE5jT2p4U2pMMDNNYnZkQ2FLTDdMai8yVnZlTXNGelBucHpiRDZBY0NodzI1YVJsaE9qQ09MVitMam5TbEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDQ5NDQ1CWZpbGU6RmluYW5jZV8wLjIuMTFfeDY0LXNldHVwLmV4ZQpEb096UDlieHJiMVdNK0Z0bUxGbHlPVFFuMGhsVm9vYVBOL1Rud1dWYjY1S0xLNnQvQVhDREN2SDNENUNlejlrQlVGUlIrbVBabnNMRm1aNmZvN1BDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTNZYVZSczgxdDdSaEZaZVUrSmdKV2lCUCtzdlFPVVdaeXAzSFZ1Q2lKVkR6STBkVm5JY2RiWEphSEFHSzR1eUE5WEp2Y2dQNnFkYjlBckNvNHhCUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDcyNTk5CWZpbGU6RmluYW5jZV8wLjIuMTJfeDY0LXNldHVwLmV4ZQpBejA3Y3pHQVRHNHpMWWkzWi9rcHdueHF3K2J0SmVDYjBXMnBSczFmalBmZU9taThlZ1VCOTdOcDg4RlhpVHZwUytoTXlLZVRqRllMYTgvNEdIdTJBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.12_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTNCM2ZGb1hmVFVxTDFlQlNCQURrb2F2SE5jT2p4U2pMMDNNYnZkQ2FLTDdMai8yVnZlTXNGelBucHpiRDZBY0NodzI1YVJsaE9qQ09MVitMam5TbEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDQ5NDQ1CWZpbGU6RmluYW5jZV8wLjIuMTFfeDY0LXNldHVwLmV4ZQpEb096UDlieHJiMVdNK0Z0bUxGbHlPVFFuMGhsVm9vYVBOL1Rud1dWYjY1S0xLNnQvQVhDREN2SDNENUNlejlrQlVGUlIrbVBabnNMRm1aNmZvN1BDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTNZYVZSczgxdDdSaEZaZVUrSmdKV2lCUCtzdlFPVVdaeXAzSFZ1Q2lKVkR6STBkVm5JY2RiWEphSEFHSzR1eUE5WEp2Y2dQNnFkYjlBckNvNHhCUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDcyNTk5CWZpbGU6RmluYW5jZV8wLjIuMTJfeDY0LXNldHVwLmV4ZQpBejA3Y3pHQVRHNHpMWWkzWi9rcHdueHF3K2J0SmVDYjBXMnBSczFmalBmZU9taThlZ1VCOTdOcDg4RlhpVHZwUytoTXlLZVRqRllMYTgvNEdIdTJBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.12_x64-setup.exe"
     }
   }
 }
