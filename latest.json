@@ -1,15 +1,15 @@
 {
-  "version": "0.2.12",
-  "notes": "1. Экран входа: шестерёнка с карточкой обновлений, проверка и установка новой версии, уведомления.\r\n2. График баланса: подсветка столбца при наведении без чёрной обводки, отдельный тултип по столбцу.",
-  "pub_date": "2026-05-22T17:56:45.670Z",
+  "version": "0.2.13",
+  "notes": "1. Обновления: автоматическая проверка только по расписанию в настройках аккаунта; при запуске программы и на экране входа проверка не выполняется.\r\n2. Обновления: ручная проверка — кнопка «Проверить» в настройках или в шестерёнке на экране входа.\r\n3. Уведомление о новой версии (toast и Windows) показывается один раз за сессию, без повторов при переключении входа и регистрации.",
+  "pub_date": "2026-05-23T06:59:28.193Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTNZYVZSczgxdDdSaEZaZVUrSmdKV2lCUCtzdlFPVVdaeXAzSFZ1Q2lKVkR6STBkVm5JY2RiWEphSEFHSzR1eUE5WEp2Y2dQNnFkYjlBckNvNHhCUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDcyNTk5CWZpbGU6RmluYW5jZV8wLjIuMTJfeDY0LXNldHVwLmV4ZQpBejA3Y3pHQVRHNHpMWWkzWi9rcHdueHF3K2J0SmVDYjBXMnBSczFmalBmZU9taThlZ1VCOTdOcDg4RlhpVHZwUytoTXlLZVRqRllMYTgvNEdIdTJBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVXlTdnNvNnpCQUs0cnhOa09nVWxOYS8xd29tVzhJWUZzMDRjUjNhRXB2cjkyQTZnV0NSajdIa3ZFcE03WFRCakJQRklLZkR1WHUxZjJMSk0yKzhEeFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTE5NTYxCWZpbGU6RmluYW5jZV8wLjIuMTNfeDY0LXNldHVwLmV4ZQo5bWFuVlpHK0ZkaStqcTdheXRpeHFWQWJyaUExUDUxcVJBVVB0R1JwMkVHeldKWU5ZQnFNK0V0TUZJY0NReU1Ia0xSZ1hJanF5UmxYY0Q5NUo2a0FDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.13_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTNZYVZSczgxdDdSaEZaZVUrSmdKV2lCUCtzdlFPVVdaeXAzSFZ1Q2lKVkR6STBkVm5JY2RiWEphSEFHSzR1eUE5WEp2Y2dQNnFkYjlBckNvNHhCUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDcyNTk5CWZpbGU6RmluYW5jZV8wLjIuMTJfeDY0LXNldHVwLmV4ZQpBejA3Y3pHQVRHNHpMWWkzWi9rcHdueHF3K2J0SmVDYjBXMnBSczFmalBmZU9taThlZ1VCOTdOcDg4RlhpVHZwUytoTXlLZVRqRllMYTgvNEdIdTJBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVXlTdnNvNnpCQUs0cnhOa09nVWxOYS8xd29tVzhJWUZzMDRjUjNhRXB2cjkyQTZnV0NSajdIa3ZFcE03WFRCakJQRklLZkR1WHUxZjJMSk0yKzhEeFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTE5NTYxCWZpbGU6RmluYW5jZV8wLjIuMTNfeDY0LXNldHVwLmV4ZQo5bWFuVlpHK0ZkaStqcTdheXRpeHFWQWJyaUExUDUxcVJBVVB0R1JwMkVHeldKWU5ZQnFNK0V0TUZJY0NReU1Ia0xSZ1hJanF5UmxYY0Q5NUo2a0FDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.13_x64-setup.exe"
     }
   }
 }
