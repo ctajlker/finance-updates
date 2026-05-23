@@ -1,15 +1,15 @@
 {
-  "version": "0.2.13",
-  "notes": "1. Обновления: автоматическая проверка только по расписанию в настройках аккаунта; при запуске программы и на экране входа проверка не выполняется.\r\n2. Обновления: ручная проверка — кнопка «Проверить» в настройках или в шестерёнке на экране входа.\r\n3. Уведомление о новой версии (toast и Windows) показывается один раз за сессию, без повторов при переключении входа и регистрации.",
-  "pub_date": "2026-05-23T06:59:28.193Z",
+  "version": "0.2.14",
+  "notes": "1. Экран выбора аккаунта при запуске: список профилей на этом ПК, вход, восстановление, удаление локального или сетевого кэша, создание нового локального хранилища.\r\n2. Главная: виджеты подстраиваются по высоте контента, выравниваются при изменении ширины окна, между карточками отступ 10px; панель настройки виджета при наведении.\r\n3. Разделы (операции, счета и др.): единый стиль кнопок, компактные шапки, действия переносятся на узком экране без дублирования.\r\n4. Интерфейс: убраны лишние подзаголовки в шапках, уменьшены отступы и скругления рамок блоков.\r\n5. Обновление: установка новой версии проходит без окна установщика (тихий режим), приложение перезапускается автоматически.",
+  "pub_date": "2026-05-23T15:35:49.748Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVXlTdnNvNnpCQUs0cnhOa09nVWxOYS8xd29tVzhJWUZzMDRjUjNhRXB2cjkyQTZnV0NSajdIa3ZFcE03WFRCakJQRklLZkR1WHUxZjJMSk0yKzhEeFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTE5NTYxCWZpbGU6RmluYW5jZV8wLjIuMTNfeDY0LXNldHVwLmV4ZQo5bWFuVlpHK0ZkaStqcTdheXRpeHFWQWJyaUExUDUxcVJBVVB0R1JwMkVHeldKWU5ZQnFNK0V0TUZJY0NReU1Ia0xSZ1hJanF5UmxYY0Q5NUo2a0FDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTdSUzg1Z3J6TVJlY3VTRVRiYjJEOEl1dWhOekVzaXR5MEc1YlhuVEpPMTQ3UlBMcy8rTGZmUG1qOTRyK3lvMUVFaXZpL05ZdHZoRC9VQS96eVJmWWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTUwNTQxCWZpbGU6RmluYW5jZV8wLjIuMTRfeDY0LXNldHVwLmV4ZQpLOHMrQ2FUTUNVVjM5WnM3YUhDTXlTQ1FidmZTUllHdU10T095OTJzUmhvTmZ6Nm9TTHV1MERLUURGUGQ2RmVFa0lwSFpqV2ZIaU9iWWpybzBRRTlEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.14_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVXlTdnNvNnpCQUs0cnhOa09nVWxOYS8xd29tVzhJWUZzMDRjUjNhRXB2cjkyQTZnV0NSajdIa3ZFcE03WFRCakJQRklLZkR1WHUxZjJMSk0yKzhEeFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTE5NTYxCWZpbGU6RmluYW5jZV8wLjIuMTNfeDY0LXNldHVwLmV4ZQo5bWFuVlpHK0ZkaStqcTdheXRpeHFWQWJyaUExUDUxcVJBVVB0R1JwMkVHeldKWU5ZQnFNK0V0TUZJY0NReU1Ia0xSZ1hJanF5UmxYY0Q5NUo2a0FDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSHkrT041UFZoVTdSUzg1Z3J6TVJlY3VTRVRiYjJEOEl1dWhOekVzaXR5MEc1YlhuVEpPMTQ3UlBMcy8rTGZmUG1qOTRyK3lvMUVFaXZpL05ZdHZoRC9VQS96eVJmWWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTUwNTQxCWZpbGU6RmluYW5jZV8wLjIuMTRfeDY0LXNldHVwLmV4ZQpLOHMrQ2FUTUNVVjM5WnM3YUhDTXlTQ1FidmZTUllHdU10T095OTJzUmhvTmZ6Nm9TTHV1MERLUURGUGQ2RmVFa0lwSFpqV2ZIaU9iWWpybzBRRTlEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/ctajlker/finance-updates/main/Finance_0.2.14_x64-setup.exe"
     }
   }
 }
